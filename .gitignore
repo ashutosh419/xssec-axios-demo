@@ -1,0 +1,4 @@
+.env
+constants.js
+node_modules/
+default-env.json
